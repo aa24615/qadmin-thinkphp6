@@ -2,7 +2,7 @@
 
 由于ThinkPHP5.0/5.1模板引擎使用方法都一样,这里就使用ThinkPHP6作为示例		
 
-官网[www.qadmin.net](http://www.qadmin.net)
+官网: [www.qadmin.net](http://www.qadmin.net)
 
 ## 安装
 
